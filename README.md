@@ -1,4 +1,4 @@
-# **Access Control Security Policies and Procedures (ISPP)**
+# **SecureAuth-AD: Access Control Security Policies and Procedures (ISPP)**
 
 ## **1. Purpose**
 
